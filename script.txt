@@ -1,0 +1,5 @@
+add Билет1 4 50 2000 20 false CHEAP EXPOSITION EventTestName 2024-09-03T12:00:00 
+add Билет2 44 53.2 2000 20 false VIP BASEBALL Event2 2023-09-03T12:00:00 
+show
+history
+execute_script script_test.txt
